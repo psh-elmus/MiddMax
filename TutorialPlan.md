@@ -1,7 +1,7 @@
 MIDI Effect
 
 MIDI Monitor
-Interactivity 1 (knobs/sliders/numbers)
+Interactivity 1 (knobs/sliders/numbers) probably a simple transposition tool?
 Generating notes (intervals)
 Generating notes (qlists)
 Processing with math
