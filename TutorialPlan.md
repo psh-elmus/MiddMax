@@ -10,13 +10,13 @@ Control by phone
 
 Audio Effect  
 
-Distortion/Filter
-Loop
-Pitch Shift
-Vocoder
-Harmonizer
+Distortion/Filter  
+Loop  
+Pitch Shift  
+Vocoder  
+Harmonizer  
 
-MIDI Instrument  
-Granular Synthesis
+MIDI Instrument   
+Granular Synthesis 
 
 
