@@ -17,6 +17,13 @@ Vocoder
 Harmonizer  
 
 MIDI Instrument   
-Granular Synthesis 
+Granular Synthesis  
+
+Other plans:  
+A sample "guitar pedal" that non-programmers can use as a demo/model. Perhaps looping, distortion, chorus versions?  
+
+A demo using the MakeyMakey just to show an example of Makers. (I own an Arduino, but the Makey Makey is simpler to use, so I thought that'd make a better demo.) I plan to show this to the class Tuesday.  
+
+
 
 
