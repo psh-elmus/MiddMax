@@ -1,0 +1,15 @@
+PH summary of Git/github use
+
+Git Bash -- not using. 
+Git Desktop -- great for the basics -- creating repository, pulling, committing, pushing
+Github -- nice for getting an overview and for text files
+Git GUI -- I almost never use this, except, it's great for showing summaries of branches
+
+And, of course, you can add files directly into your local git directory.
+
+
+PH summary on Max patches
+
+You don't need to copy the patch as text and then enter it into a text file on git. All you have to do is drag the Max patch into the git folder, and, of course, commit it. It will be added as a binary file to the repository. 
+
+But the cool thing is -- if you try to read it, it will convert it to binary! (I guess the Max patch format is just the text file.) Anyway, just dragging the patch into the folder saves steps. 
