@@ -1,14 +1,8 @@
-Just for myself, I'm trying to summarize the Git Bash commands/procedures...
+Just for myself, I'm trying to summarize how to best use git tools for this project
 
+Github -- General organization, text document editing
+Local repository -- best place to add Max patches
+Git Desktop -- For me, the easiest way to do basic repository management/pull/commit/sync operations.
+Git GUI -- nice way locally to see branches and their contents
 
-git pull [whenever you start a local session to be sure the local git is up to date, pulls current online repository]
-
-[Then work on revisions]
-
-git status [see which changes need tending]
-
-git add . [adds any new/changed files to staging, or you can specify a filename]
-
-git commit -m [message]  [commits all changes, adds message on nature of changes, message required]
-
-git push  [pushes changes to online repository]
+I downloaded Atom, not sure of its utility for this project. I've been using Brackets and Wordpad for local text editing.
