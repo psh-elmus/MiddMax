@@ -1,1 +1,2 @@
-I'm going to start working on a patch that reads OSC data from a phone using TouchOSC and feeds it as control signals that can be mapped to Ableton or synth parameters using the MIDI map mode.
+A patch that reads OSC data from a phone using TouchOSC and feeds it as control signals that can be mapped to Ableton or synth parameters using the MIDI map mode.
+Probably need MIDI patcher to automate the control commands.
